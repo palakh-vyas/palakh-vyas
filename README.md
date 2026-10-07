@@ -97,21 +97,7 @@ I enjoy turning ideas into practical solutions and learning something new along 
 
 </div>
 
----
 
-# 📜 Certifications
-
-🏅 **Google IT Support** — Credly
-
-🏅 **Applied Machine Learning in Python** — University of Michigan
-
-🏅 **Introduction to Machine Learning** — Kaggle
-
-🏅 **AI/ML** — MPOnline
-
-🏅 **Advanced Software Engineering** — MPOnline
-
----
 
 # 🎓 Education
 
