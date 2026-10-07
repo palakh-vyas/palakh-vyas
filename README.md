@@ -1,4 +1,8 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C6FF&height=230&section=header&text=PALAKH%20VYAS&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=building%20%7C%20learning%20%7C%20exploring%20%F0%9F%9A%80&descAlignY=58&descSize=18"/>
+
+</div>
 
 ## 👋 About Me
 
