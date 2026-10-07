@@ -49,9 +49,9 @@ I enjoy turning ideas into practical solutions and learning something new along 
 ╠══════════════════════════════════════════╣
 ║                                          ║
 ║  🧠  Machine Learning                    ║
-║  💻  Data Structures & Algorithms        ║
+║  💻  Data Analysis      ║
 ║  🗄️  SQL & Data Analytics                ║
-║  ⚡  Backend Development                 ║
+║  ⚡  Data Engineering║
 ║  🏥  Healthcare Technology              ║
 ║                                          ║
 ╚══════════════════════════════════════════╝
