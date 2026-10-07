@@ -1,37 +1,4 @@
-````md
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Palakh+Vyas+%F0%9F%91%8B;Computer+Science+Student;AI%2FML+Enthusiast+%F0%9F%A4%96;Health+Informatics+%F0%9F%AB%81;Always+Learning+Something+New+%F0%9F%9A%80" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=palakh-vyas&label=Profile%20Views&color=58A6FF&style=flat-square" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🐧 `Almost there... ... ...`
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
-
-<br>
-
-```text
-Initializing Palakh.exe...
-████████████████████████████████████ 100%
-
-✓ Python loaded
-✓ Machine Learning loaded
-✓ Curiosity loaded
-✓ Coffee.exe running
-````
-
-</div>
-
----
 
 ## 👋 About Me
 
@@ -41,23 +8,7 @@ I'm interested in **Machine Learning, Data Science, Backend Development, and Hea
 
 I enjoy turning ideas into practical solutions and learning something new along the way.
 
-```python
-class Palakh:
 
-    role = "Computer Science Student"
-    specialization = "Health Informatics"
-
-    interests = [
-        "Machine Learning",
-        "Data Science",
-        "Backend Development",
-        "Healthcare Technology"
-    ]
-
-    languages = ["Python", "SQL"]
-
-    motto = "Build. Learn. Improve. Repeat. 🚀"
-```
 
 ---
 
